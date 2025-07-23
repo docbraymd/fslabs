@@ -1,0 +1,6578 @@
+[
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Basic Metabolic Panel",
+    "Specimens required": "Serum",
+    "Price": "$8.63"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Comprehensive Metabolic Panel",
+    "Specimens required": "Serum",
+    "Price": "$10.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CBC (H/H, RBC, Indices, WBC, PIt)",
+    "Specimens required": "Whole blood",
+    "Price": "$2.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CBC (includes Differential and Platelets)",
+    "Specimens required": "Whole blood",
+    "Price": "$3.89"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Plus",
+    "Specimens required": "Saliva Urine",
+    "Price": "$400.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Advanced Lipid Panel with Inflammation",
+    "Specimens required": "Serum",
+    "Price": "$138.69"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Direct LDL",
+    "Specimens required": "Serum",
+    "Price": "$10.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Lipid Panel",
+    "Specimens required": "Serum",
+    "Price": "$7.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Apolipoprotein B",
+    "Specimens required": "Serum",
+    "Price": "$21.96"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Complete",
+    "Specimens required": "Urine",
+    "Price": "$300.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Homocysteine",
+    "Specimens required": "Serum",
+    "Price": "$19.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Lipoprotein (a)",
+    "Specimens required": "Serum",
+    "Price": "$22.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Hemoglobin A1c",
+    "Specimens required": "Whole blood",
+    "Price": "$6.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ® Triglycerides",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "FSH (Follicle Stimulating Hormone)",
+    "Specimens required": "Serum",
+    "Price": "$6.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "FSH and LH",
+    "Specimens required": "Serum",
+    "Price": "$12.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Methylenetetrahydrofolate Reductase (MTHFR), DNA Mutation Analysis",
+    "Specimens required": "Whole blood",
+    "Price": "$190.54"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "GI-MAP® (GI Microbial Assay Plus)",
+    "Specimens required": "Stool",
+    "Price": "$327.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Cholesterol, Total",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "C-Reactive Protein (CRP)",
+    "Specimens required": "Serum",
+    "Price": "$6.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Comprehensive Metabolic Panel without ALT",
+    "Specimens required": "Serum",
+    "Price": "$10.43"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin, Random Urine with Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$15.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Insulin",
+    "Specimens required": "Serum",
+    "Price": "$6.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ferritin",
+    "Specimens required": "Serum",
+    "Price": "$5.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alanine Aminotransferase (ALT)",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Insulin Resistance Panel with Score",
+    "Specimens required": "Serum",
+    "Price": "$82.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Kidney Profile",
+    "Specimens required": "Serum Urine",
+    "Price": "$21.79"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alkaline Phosphatase",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "OMX | Organic Metabolomics - Urine/Urine",
+    "Specimens required": "Urine",
+    "Price": "$228.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "17-Hydroxyprogesterone",
+    "Specimens required": "Serum",
+    "Price": "$43.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estradiol, Ultrasensitive, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$23.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estriol, Serum",
+    "Specimens required": "Serum",
+    "Price": "$22.75"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin",
+    "Specimens required": "Serum",
+    "Price": "$6.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Iron, Total",
+    "Specimens required": "Serum",
+    "Price": "$3.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Iron, Total and Total Iron Binding Capacity",
+    "Specimens required": "Serum",
+    "Price": "$6.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sex Hormone Binding Globulin (SHBG)",
+    "Specimens required": "Serum",
+    "Price": "$19.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "DHEA, (Dehydroepiandrosterone), Unconjugated",
+    "Specimens required": "Serum",
+    "Price": "$15.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dihydrotestosterone",
+    "Specimens required": "Serum",
+    "Price": "$42.85"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dihydrotestosterone, Free, Serum",
+    "Specimens required": "Serum",
+    "Price": "$29.31"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anti-Mullerian Hormone (AMH), Female",
+    "Specimens required": "Serum",
+    "Price": "$95.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anti-Mullerian Hormone (AMH), Male",
+    "Specimens required": "Serum",
+    "Price": "$95.07"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "OMX | Organic Metabolomics - Urine/Plasma",
+    "Specimens required": "Urine Plasma",
+    "Price": "$228.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Free, Bioavailable and Total, MS",
+    "Specimens required": "Serum",
+    "Price": "$46.38"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Renal Function Panel",
+    "Specimens required": "Serum",
+    "Price": "$9.35"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ HDL Cholesterol",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TSH",
+    "Specimens required": "Serum",
+    "Price": "$4.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Vitamin D, 25-Hydroxy",
+    "Specimens required": "Serum",
+    "Price": "$23.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aspartate Aminotransferase (AST)",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Magnesium",
+    "Specimens required": "Serum",
+    "Price": "$4.24"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ APOE Genotype",
+    "Specimens required": "Whole blood",
+    "Price": "$100.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bilirubin, Fractionated",
+    "Specimens required": "Serum",
+    "Price": "$6.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "BUN/Creatinine Ratio",
+    "Specimens required": "Serum",
+    "Price": "$6.47"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "Organic Acids Profile - Urine",
+    "Specimens required": "Urine",
+    "Price": "$187.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, P.M.",
+    "Specimens required": "Serum",
+    "Price": "$11.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, Total",
+    "Specimens required": "Serum",
+    "Price": "$11.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, LC/MS, Saliva",
+    "Specimens required": "Saliva",
+    "Price": "$48.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin, 24-Hour Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$11.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estrogens, Total, Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$28.35"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estrone",
+    "Specimens required": "Serum",
+    "Price": "$26.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hCG, Total, Quantitative",
+    "Specimens required": "Serum",
+    "Price": "$11.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hematocrit",
+    "Specimens required": "Whole blood",
+    "Price": "$0.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemoglobin",
+    "Specimens required": "Whole blood",
+    "Price": "$0.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemoglobin and Hematocrit",
+    "Specimens required": "Whole blood",
+    "Price": "$1.32"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemogram",
+    "Specimens required": "Whole blood",
+    "Price": "$2.03"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemogram and Differential",
+    "Specimens required": "Whole blood",
+    "Price": "$3.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "PSA, Free and Total",
+    "Specimens required": "Serum",
+    "Price": "$23.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "PSA, Total",
+    "Specimens required": "Serum",
+    "Price": "$9.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "PSA, Total (2.5 ng/mL cutoff)",
+    "Specimens required": "Serum",
+    "Price": "$9.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Triglycerides",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "D-Dimer, Quantitative",
+    "Specimens required": "Plasma",
+    "Price": "$69.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin, Random Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$11.33"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "CytoDX | Cytokine Response Profile",
+    "Specimens required": "Serum",
+    "Price": "$241.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ hs-CRP",
+    "Specimens required": "Serum",
+    "Price": "$12.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Folate, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$15.11"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Amylase",
+    "Specimens required": "Serum",
+    "Price": "$6.74"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Comprehensive Metabolic Panel with Adjusted Calcium, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$10.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bilirubin, Total",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "OmegaCheck",
+    "Specimens required": "Whole blood",
+    "Price": "$25.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipoprotein (a)",
+    "Specimens required": "Serum",
+    "Price": "$22.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Comprehensive Metabolic Panel without CO2, ALT",
+    "Specimens required": "Serum",
+    "Price": "$10.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Uric Acid",
+    "Specimens required": "Serum",
+    "Price": "$2.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B",
+    "Specimens required": "Serum",
+    "Price": "$90.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 2 Specimens (75g)",
+    "Specimens required": "Plasma",
+    "Price": "$7.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 3 Specimens (75g)",
+    "Specimens required": "Plasma",
+    "Price": "$10.71"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, Gestational, 3 Specimens (75g)",
+    "Specimens required": "Plasma",
+    "Price": "$10.71"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, Gestational, 4 Specimens (100g)",
+    "Specimens required": "Plasma",
+    "Price": "$14.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, Postprandial, 1-Hour",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, Postprandial, 2-Hour",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Fasting and Gestational, 135 Cutoff",
+    "Specimens required": "Plasma",
+    "Price": "$7.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Fasting and Postprandial, 1 Hour",
+    "Specimens required": "Plasma",
+    "Price": "$7.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Fasting and Postprandial, 2-Hour",
+    "Specimens required": "Plasma",
+    "Price": "$7.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Fasting and Gestational, 140 Cutoff",
+    "Specimens required": "Plasma",
+    "Price": "$7.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Gestational Screen (50g), 135 Cutoff",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Gestational Screen (50g), 140 Cutoff",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pregnenolone, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$62.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Progesterone, Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$11.85"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Progesterone, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$28.69"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prolactin",
+    "Specimens required": "Serum",
+    "Price": "$14.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Factor (IgA)",
+    "Specimens required": "Serum",
+    "Price": "$23.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Factor (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$23.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroglobulin Panel",
+    "Specimens required": "Serum",
+    "Price": "$47.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Diabetes Risk Panel without Score",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$21.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Diabetes Risk Panel with Score",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$21.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Diabetes Risk Panel with Score",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$21.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Factor (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$23.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Metabolic Risk Panel",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$93.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anti-Streptolysin O Antibody (ASO)",
+    "Specimens required": "Serum",
+    "Price": "$18.63"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Comprehensive Metabolic Panel, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$10.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Urinalysis, Complete",
+    "Specimens required": "Urine",
+    "Price": "$3.96"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "B-Type Natriuretic Peptide (BNP)",
+    "Specimens required": "Plasma",
+    "Price": "$63.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Lipoprotein Fractionation, Ion Mobility",
+    "Specimens required": "Serum",
+    "Price": "$35.01"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatic Function Panel",
+    "Specimens required": "Serum",
+    "Price": "$8.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "ADMA/SDMA",
+    "Specimens required": "Serum",
+    "Price": "$53.85"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Basic Metabolic Panel, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$8.63"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Calcium",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Lp-PLA2 Activity",
+    "Specimens required": "Serum",
+    "Price": "$37.92"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "GI Pathogens Profile",
+    "Specimens required": "Stool",
+    "Price": "$204.18"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Sex Hormones and Metabolites Only Panel",
+    "Specimens required": "Urine",
+    "Price": "$180.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Interleukin-6 (IL-6), Serum",
+    "Specimens required": "Serum",
+    "Price": "$92.36"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mercury, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$22.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total and Albumin",
+    "Specimens required": "Serum",
+    "Price": "$6.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total and Albumin, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$6.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total, Serum",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "QuestAssureD 25-Hydroxyvitamin D (D2, D3)",
+    "Specimens required": "Serum",
+    "Price": "$23.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Blood Cell Count (WBC)",
+    "Specimens required": "Whole blood",
+    "Price": "$0.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Blood Cell Count (WBC) and Differential",
+    "Specimens required": "Whole blood",
+    "Price": "$1.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "C-Peptide",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Panel",
+    "Specimens required": "Serum",
+    "Price": "$7.36"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Panel with TSH",
+    "Specimens required": "Serum",
+    "Price": "$12.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cholesterol, Total",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fibrinogen Activity, Clauss",
+    "Specimens required": "Whole blood",
+    "Price": "$13.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fibrinogen Antigen, Nephelometry",
+    "Specimens required": "Plasma",
+    "Price": "$44.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TMAO (Trimethylamine N-Oxide)",
+    "Specimens required": "Serum",
+    "Price": "$55.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Troponin T, High Sensitivity (hs-TnT)",
+    "Specimens required": "Plasma",
+    "Price": "$95.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lp-PLA2 Activity",
+    "Specimens required": "Serum",
+    "Price": "$37.92"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Basic Metabolic Panel without Calcium",
+    "Specimens required": "Serum",
+    "Price": "$8.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Carbon Dioxide",
+    "Specimens required": "Whole blood",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apolipoprotein B",
+    "Specimens required": "Serum",
+    "Price": "$21.96"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bilirubin, Direct",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "Zonulin Profile (Stool)",
+    "Specimens required": "Stool",
+    "Price": "$105.78"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Adrenals Only Panel",
+    "Specimens required": "Urine",
+    "Price": "$180.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Helicobacter pylori, Urea Breath Test",
+    "Specimens required": "Breath",
+    "Price": "$101.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Platelet Count, EDTA",
+    "Specimens required": "Whole blood",
+    "Price": "$0.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Red Blood Cell Count",
+    "Specimens required": "Whole blood",
+    "Price": "$0.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rh Type",
+    "Specimens required": "Whole blood",
+    "Price": "$4.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Factor",
+    "Specimens required": "Serum",
+    "Price": "$6.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Troponin T",
+    "Specimens required": "Serum",
+    "Price": "$95.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TSI (Thyroid Stimulating Immunoglobulin)",
+    "Specimens required": "Serum",
+    "Price": "$48.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Leptin",
+    "Specimens required": "Serum",
+    "Price": "$28.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Folate, Serum",
+    "Specimens required": "Serum",
+    "Price": "$4.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemoglobin A1c",
+    "Specimens required": "Whole blood",
+    "Price": "$6.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemoglobin A1c with Calculated Mean Plasma Glucose (MPG)",
+    "Specimens required": "Whole blood",
+    "Price": "$6.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hemoglobin A1c with eAG",
+    "Specimens required": "Whole blood",
+    "Price": "$6.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hs-CRP",
+    "Specimens required": "Serum",
+    "Price": "$12.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "OxLDL",
+    "Specimens required": "Plasma",
+    "Price": "$18.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Potassium, Serum",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Fibrinogen Antigen, Nephelometry",
+    "Specimens required": "Plasma",
+    "Price": "$44.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Myeloperoxidase (MPO)",
+    "Specimens required": "Plasma",
+    "Price": "$35.08"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "Calprotectin (Stand-Alone)",
+    "Specimens required": "Stool",
+    "Price": "$81.18"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "Fecal Gluten Peptide (Stand-Alone)",
+    "Specimens required": "Stool",
+    "Price": "$81.18"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Cortisol Awakening Response (CAR)",
+    "Specimens required": "Saliva",
+    "Price": "$175.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin A (Retinol)",
+    "Specimens required": "Serum",
+    "Price": "$29.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Magnesium, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$12.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Manganese, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$51.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Potassium, 24-Hour Urine with Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$8.92"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Potassium, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Potassium, Random Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$4.75"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T3 Reverse, LC/MS/MS",
+    "Specimens required": "Serum",
+    "Price": "$23.69"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T3 Total",
+    "Specimens required": "Serum",
+    "Price": "$5.35"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T3 Uptake",
+    "Specimens required": "Serum",
+    "Price": "$2.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T3, Free",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T4 (Thyroxine), Total",
+    "Specimens required": "Serum",
+    "Price": "$4.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "T4 Free (FT4)",
+    "Specimens required": "Serum",
+    "Price": "$4.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Free",
+    "Specimens required": "Serum",
+    "Price": "$55.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Free (Dialysis) and Total, MS",
+    "Specimens required": "Serum",
+    "Price": "$30.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Total, Males (Adult), Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$14.49"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Total, MS",
+    "Specimens required": "Serum",
+    "Price": "$20.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Urea Nitrogen (BUN)",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "Amino Acids Profile (AAp - Plasma)",
+    "Specimens required": "Plasma",
+    "Price": "$146.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B1 (Thiamine), Blood, LC/MS/MS",
+    "Specimens required": "Whole blood",
+    "Price": "$38.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B12 (Cobalamin)",
+    "Specimens required": "Serum",
+    "Price": "$5.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B2 (Riboflavin)",
+    "Specimens required": "Serum",
+    "Price": "$47.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B3",
+    "Specimens required": "Serum",
+    "Price": "$90.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B5 (Pantothenic Acid)",
+    "Specimens required": "Serum",
+    "Price": "$40.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B6, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$36.71"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin C",
+    "Specimens required": "Serum",
+    "Price": "$33.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin E (Tocopherol)",
+    "Specimens required": "Serum",
+    "Price": "$30.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "ABO Group",
+    "Specimens required": "Whole blood",
+    "Price": "$4.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "ABO Group and Rh Type",
+    "Specimens required": "Whole blood",
+    "Price": "$8.29"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "H. pylori Profile",
+    "Specimens required": "Stool",
+    "Price": "$89.38"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Cycle Mapping Plus (female only)",
+    "Specimens required": "Saliva Urine",
+    "Price": "$595.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Calcitriol 1,25-Dihydroxyvitamin D",
+    "Specimens required": "Serum",
+    "Price": "$29.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chromium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$47.76"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cobalt, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$37.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Copper",
+    "Specimens required": "Plasma",
+    "Price": "$16.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Copper, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$16.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "lodine, Serum/Plasma",
+    "Specimens required": "Serum",
+    "Price": "$34.96"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Urinalysis, Macroscopic",
+    "Specimens required": "Urine",
+    "Price": "$1.82"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Urinalysis, Microscopic",
+    "Specimens required": "Urine",
+    "Price": "$2.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chromatin (Nucleosomal) Antibody",
+    "Specimens required": "Serum",
+    "Price": "$38.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sed Rate by Modified Westergren",
+    "Specimens required": "Whole blood",
+    "Price": "$4.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Selenium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$37.79"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Coenzyme Q10",
+    "Specimens required": "Serum",
+    "Price": "$48.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, A.Μ.",
+    "Specimens required": "Serum",
+    "Price": "$11.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Electrolyte Panel",
+    "Specimens required": "Serum",
+    "Price": "$7.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Electrolyte Panel, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$7.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatine Kinase (CK), Total",
+    "Specimens required": "Serum",
+    "Price": "$4.31"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatinine",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatinine, 24-Hour Urine",
+    "Specimens required": "Urine",
+    "Price": "$4.17"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "IgE Allergy Explorer (150+ Extract and Component Allergens)",
+    "Specimens required": "Bloodspot",
+    "Price": "$163.18"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "IgG Food Explorer (250+ Foods)",
+    "Specimens required": "Bloodspot",
+    "Price": "$163.18"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "IgE Allergy Explorer and IgG Food Explorer Combo",
+    "Specimens required": "Bloodspot",
+    "Price": "$245.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cadmium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$27.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Molybdenum, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$43.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sodium",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B2 (Riboflavin)",
+    "Specimens required": "Serum",
+    "Price": "$47.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B5 (Pantothenic Acid)",
+    "Specimens required": "Serum",
+    "Price": "$40.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B6, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$36.71"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin C",
+    "Specimens required": "Serum",
+    "Price": "$33.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin D, 25-Hydroxy, Total, Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$23.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin E (Tocopherol)",
+    "Specimens required": "Serum",
+    "Price": "$30.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Zinc",
+    "Specimens required": "Plasma",
+    "Price": "$14.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Zinc, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$19.88"
+  },
+  {
+    "Lab company": "Diagnostic Solutions Laboratory",
+    "Lab name": "IgE Allergy Explorer (150+ Extract and Component Allergens)",
+    "Specimens required": "Bloodspot",
+    "Price": "$163.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatinine, Random Urine",
+    "Specimens required": "Urine",
+    "Price": "$4.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estradiol",
+    "Specimens required": "Serum",
+    "Price": "$10.69"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "F2-Isoprostane/Creatinine Ratio",
+    "Specimens required": "Urine",
+    "Price": "$64.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gamma Glutamyl Transferase (GGT)",
+    "Specimens required": "Serum",
+    "Price": "$9.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "DNA (ds) Antibody",
+    "Specimens required": "Serum",
+    "Price": "$18.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HDL Cholesterol",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Direct LDL",
+    "Specimens required": "Serum",
+    "Price": "$10.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatic Function Panel without Total Protein",
+    "Specimens required": "Serum",
+    "Price": "$7.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatic Function Panel, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$8.26"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Organic Acids Test (OATs) only",
+    "Specimens required": "Urine",
+    "Price": "$160.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Guideline Based Hereditary Cancer Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$3603.24"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IGF-1, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$29.10"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Serotonin, Serum",
+    "Specimens required": "Serum",
+    "Price": "$74.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Homocysteine",
+    "Specimens required": "Serum",
+    "Price": "$19.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "BRCA Panel (BRCA1, BRCA2)",
+    "Specimens required": "Whole blood",
+    "Price": "$3279.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Babesia microti DNA Real-Time PCR",
+    "Specimens required": "Whole blood",
+    "Price": "$187.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Arsenic, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$25.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Cadmium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$27.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Chromium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$47.76"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Cobalt, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$37.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Coenzyme Q10 (CoQ10)",
+    "Specimens required": "Serum",
+    "Price": "$48.26"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Copper, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$16.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Folate",
+    "Specimens required": "Serum",
+    "Price": "$4.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Iron",
+    "Specimens required": "Serum",
+    "Price": "$3.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Magnesium, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$12.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Manganese, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$51.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Mercury, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$22.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Molybdenum, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$43.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Selenium, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$37.79"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin A (Retinol)",
+    "Specimens required": "Serum",
+    "Price": "$29.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B1 (Thiamine), Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$38.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B12",
+    "Specimens required": "Serum",
+    "Price": "$5.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B2",
+    "Specimens required": "Serum",
+    "Price": "$47.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B3",
+    "Specimens required": "Serum",
+    "Price": "$90.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B5",
+    "Specimens required": "Serum",
+    "Price": "$40.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin B6, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$36.71"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin C",
+    "Specimens required": "Serum",
+    "Price": "$33.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Vitamin E",
+    "Specimens required": "Serum",
+    "Price": "$30.07"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Zinc, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$14.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrients, Antioxidants Panel",
+    "Specimens required": "Serum",
+    "Price": "$141.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrients, B-Vitamin Panel",
+    "Specimens required": "Serum Plasma",
+    "Price": "$264.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrients, Mineral/Element Panel",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$234.74"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Arsenic, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$25.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cyclic Citrullinated Peptide (CCP) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$19.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mycoplasma pneumoniae Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$17.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mycoplasma pneumoniae Antibody (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$17.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cystatin C with Glomerular Filtration Rate, Estimated (eGFR)",
+    "Specimens required": "Serum",
+    "Price": "$26.65"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tick-borne Disease, Acute Molecular Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$881.56"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Cycle Mapping with Adrenals Bundle (female only)",
+    "Specimens required": "Urine",
+    "Price": "$450.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CA 125",
+    "Specimens required": "Serum",
+    "Price": "$27.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Calprotectin, Stool",
+    "Specimens required": "Stool",
+    "Price": "$151.43"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hereditary Breast Cancer Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$3500.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hereditary Colorectal Cancer Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$3552.40"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hereditary Endocrine Cancer Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$1269.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin, Intact, LC/MS/MS",
+    "Specimens required": "Serum",
+    "Price": "$27.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "PTH, Intact without Calcium",
+    "Specimens required": "Plasma",
+    "Price": "$53.93"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroglobulin Antibodies",
+    "Specimens required": "Serum",
+    "Price": "$8.75"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Peroxidase Antibodies (TPO)",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TSH, Pregnancy",
+    "Specimens required": "Serum",
+    "Price": "$4.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "LH (Luteinizing Hormone)",
+    "Specimens required": "Serum",
+    "Price": "$6.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Peroxidase Antibodies (TPO)",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TSH, Pregnancy",
+    "Specimens required": "Serum",
+    "Price": "$4.86"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "LH (Luteinizing Hormone)",
+    "Specimens required": "Serum",
+    "Price": "$6.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Reticulocyte Count, Automated",
+    "Specimens required": "Whole blood",
+    "Price": "$13.26"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Cycle Mapping with Complete Bundle (female Only)",
+    "Specimens required": "Urine",
+    "Price": "$495.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 5 Specimens with 1/2 Hour",
+    "Specimens required": "Plasma",
+    "Price": "$17.85"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fructosamine",
+    "Specimens required": "Serum",
+    "Price": "$29.51"
+  },
+  {
+    "Lab company": "Precision Analytical (DUTCH)",
+    "Lab name": "DUTCH Cycle Mapping with Sex Hormones and Metabolites Bundle (female only)",
+    "Specimens required": "Urine",
+    "Price": "$450.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucagon",
+    "Specimens required": "Plasma",
+    "Price": "$23.32"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prostatic Acid Phosphatase (PAP)",
+    "Specimens required": "Serum",
+    "Price": "$18.92"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose, PP 2-Hour (75g)",
+    "Specimens required": "Plasma",
+    "Price": "$3.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Giardia Antigen, EIA, Stool",
+    "Specimens required": "Stool",
+    "Price": "$43.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin, Timed Urine",
+    "Specimens required": "Urine",
+    "Price": "$11.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 2 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$22.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 3 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$33.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 4 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$45.11"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 5 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$56.39"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 6 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$67.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, LC/MS, Saliva, 2 Samples",
+    "Specimens required": "Saliva",
+    "Price": "$97.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, LC/MS, Saliva, 3 Samples",
+    "Specimens required": "Saliva",
+    "Price": "$145.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fecal Globin by Immunochemistry (InSure®)",
+    "Specimens required": "Stool",
+    "Price": "$32.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 4 Specimens",
+    "Specimens required": "Plasma",
+    "Price": "$14.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 5 Specimens",
+    "Specimens required": "Plasma",
+    "Price": "$17.85"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glucose Tolerance Test, 6 specimens",
+    "Specimens required": "Plasma",
+    "Price": "$21.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin Response to Glucose, 7 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$46.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin Response to Glucose, 8 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$52.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin Response to Glucose, 9 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$59.38"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lead (Venous)",
+    "Specimens required": "Whole blood",
+    "Price": "$11.96"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ova and Parasites, Concentrate and Permanent Smear, 3 Specimens",
+    "Specimens required": "Stool",
+    "Price": "$76.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ova and Parasites, Concentrate and Permanent Smear",
+    "Specimens required": "Stool",
+    "Price": "$25.53"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ova and Parasites, Concentrate and Permanent Smear, 2 Specimens",
+    "Specimens required": "Stool",
+    "Price": "$51.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "SARS-CoV-2 Antibody (IgG), Nucleocapsid, Qualitative",
+    "Specimens required": "Serum",
+    "Price": "$69.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "SARS-CoV-2 Total Antibody, Spike, Semi-Quantitative",
+    "Specimens required": "Serum",
+    "Price": "$69.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Iron, TIBC and Ferritin Panel",
+    "Specimens required": "Serum",
+    "Price": "$12.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cyclospora and Isospora Examination",
+    "Specimens required": "Stool",
+    "Price": "$17.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin, Timed Urine",
+    "Specimens required": "Urine",
+    "Price": "$11.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 2 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$22.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 3 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$33.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 4 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$45.11"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 5 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$56.39"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, 6 Specimens",
+    "Specimens required": "Serum",
+    "Price": "$67.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Giardia Antigen, EIA, Stool",
+    "Specimens required": "Stool",
+    "Price": "$43.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrients, Heavy Metals Panel, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$124.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cortisol, LC/MS, Saliva, 4 Samples",
+    "Specimens required": "Saliva",
+    "Price": "$194.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CA 19-9",
+    "Specimens required": "Serum",
+    "Price": "$32.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Malaria/Babesia/Other Blood Parasites",
+    "Specimens required": "Whole blood",
+    "Price": "$22.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fecal Leukocyte Stain",
+    "Specimens required": "Stool",
+    "Price": "$12.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heavy Metals Panel (Venous)",
+    "Specimens required": "Whole blood",
+    "Price": "$59.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Micronutrient, Lead, Blood (Venous)",
+    "Specimens required": "Whole blood",
+    "Price": "$11.96"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vascular Endothelial Growth Factor (VEGF), ELISA",
+    "Specimens required": "Plasma",
+    "Price": "$100.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Galectin-3",
+    "Specimens required": "Serum",
+    "Price": "$27.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgA",
+    "Specimens required": "Serum",
+    "Price": "$7.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Complement Component C4c",
+    "Specimens required": "Serum",
+    "Price": "$14.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Complement Component C3c",
+    "Specimens required": "Serum",
+    "Price": "$14.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CA 15-3",
+    "Specimens required": "Serum",
+    "Price": "$32.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aluminum, Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$39.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipoprotein Fractionation, NMR",
+    "Specimens required": "Serum",
+    "Price": "$50.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Histamine, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$51.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chloride",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Iodine, Random Urine",
+    "Specimens required": "Urine",
+    "Price": "$33.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipid Panel with Triglycerides/HDL-Cholesterol",
+    "Specimens required": "Serum",
+    "Price": "$24.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipid Panel with Ratios",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipid Panel, Non-Fasting without Triglycerides",
+    "Specimens required": "Serum",
+    "Price": "$5.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipoprotein Fractionation Ultracentrifugation",
+    "Specimens required": "Serum",
+    "Price": "$61.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipoprotein Fractionation, NMR with Lipid Panel (Triglycerides/HDL-C)",
+    "Specimens required": "Serum",
+    "Price": "$74.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lithium",
+    "Specimens required": "Serum",
+    "Price": "$12.10"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prealbumin",
+    "Specimens required": "Serum",
+    "Price": "$19.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "QuantiFERON-TB Gold Plus, 1 Tube",
+    "Specimens required": "Whole blood",
+    "Price": "$77.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "QuestAssureD 25-Hydroxy and Calcitriol 1,25-Dihydroxyvitamin D",
+    "Specimens required": "Serum",
+    "Price": "$52.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Osmolality, Serum",
+    "Specimens required": "Serum",
+    "Price": "$9.18"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Viscosity, Serum",
+    "Specimens required": "Serum",
+    "Price": "$16.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Steroid Panel, Comprehensive",
+    "Specimens required": "Serum",
+    "Price": "$1576.39"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Testosterone, Free, Bioavailable and Total, Males (Adult), Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$40.03"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Human Transforming Growth Factor beta 1 (TGF-b1)",
+    "Specimens required": "Plasma",
+    "Price": "$145.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "TBG (Thyroxine Binding Globulin)",
+    "Specimens required": "Serum",
+    "Price": "$18.11"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tick-Borne Disease, Antibody Panel",
+    "Specimens required": "Serum",
+    "Price": "$250.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Total Glutathione in Whole Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$132.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tumor Necrosis Factor-Alpha, Highly Sensitive",
+    "Specimens required": "Serum",
+    "Price": "$23.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Valproic Acid",
+    "Specimens required": "Serum",
+    "Price": "$17.97"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Voltage-Gated Calcium Channel (VGCC) Type P/Q Antibody",
+    "Specimens required": "Serum",
+    "Price": "$97.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vitamin B12 (Cobalamin) and Folate Panel, Serum",
+    "Specimens required": "Serum",
+    "Price": "$10.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "von Willebrand Factor Antigen",
+    "Specimens required": "Plasma",
+    "Price": "$30.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Carnitine",
+    "Specimens required": "Serum",
+    "Price": "$25.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HDL Cholesterol Subclasses",
+    "Specimens required": "Serum",
+    "Price": "$47.03"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IA-2 Antibody",
+    "Specimens required": "Serum",
+    "Price": "$97.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Intrinsic Factor Blocking Antibody",
+    "Specimens required": "Serum",
+    "Price": "$20.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heavy Metals Panel, 24-Hour Urine",
+    "Specimens required": "Urine",
+    "Price": "$63.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lactate Dehydrogenase (LD) Isoenzyme Panel",
+    "Specimens required": "Serum",
+    "Price": "$34.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fecal Fat, Qualitative",
+    "Specimens required": "Stool",
+    "Price": "$7.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Haptoglobin",
+    "Specimens required": "Serum",
+    "Price": "$15.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "1,5-Anhydroglucitol (1,5-AG), Intermediate Glycemic Control",
+    "Specimens required": "Serum",
+    "Price": "$35.76"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Immunoglobulin G Subclasses Panel",
+    "Specimens required": "Serum",
+    "Price": "$54.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Phosphate, Random Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$7.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total, 24-Hour Urine with Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$12.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin Autoantibody",
+    "Specimens required": "Serum",
+    "Price": "$41.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Measles, Mumps, and Rubella (MMR) Antibodies (IgG) Panel, Immune Status",
+    "Specimens required": "Serum",
+    "Price": "$33.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel III",
+    "Specimens required": "Serum",
+    "Price": "$396.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel IV",
+    "Specimens required": "Serum",
+    "Price": "$434.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel IX",
+    "Specimens required": "Serum",
+    "Price": "$662.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel V",
+    "Specimens required": "Serum",
+    "Price": "$396.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel VI",
+    "Specimens required": "Serum",
+    "Price": "$434.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel VII",
+    "Specimens required": "Serum",
+    "Price": "$358.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein S Antigen, Total and Free",
+    "Specimens required": "Plasma",
+    "Price": "$47.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HLA-B27 Antigen",
+    "Specimens required": "Whole blood",
+    "Price": "$34.24"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Parvovirus B19 Antibodies (IgG, IgM)",
+    "Specimens required": "Serum",
+    "Price": "$39.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta-2-Microglobulin, Serum",
+    "Specimens required": "Serum",
+    "Price": "$21.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mitochondria M2 Antibody (IgG), EIA",
+    "Specimens required": "Serum",
+    "Price": "$21.15"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Natural Killer Cells",
+    "Specimens required": "Whole blood",
+    "Price": "$73.32"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Arthritis Diagnostic Panel 1",
+    "Specimens required": "Serum",
+    "Price": "$26.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatine Kinase Isoenzymes (CK Isoenzymes) with Total CK",
+    "Specimens required": "Serum",
+    "Price": "$23.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sickle Cell Screen",
+    "Specimens required": "Whole blood",
+    "Price": "$7.65"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aldolase",
+    "Specimens required": "Serum",
+    "Price": "$12.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Myoglobin, Serum",
+    "Specimens required": "Serum",
+    "Price": "$17.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hCG, Qualitative, Urine",
+    "Specimens required": "Urine",
+    "Price": "$11.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fecal Fat, Qualitative",
+    "Specimens required": "Stool",
+    "Price": "$7.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Haptoglobin",
+    "Specimens required": "Serum",
+    "Price": "$15.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "1,5-Anhydroglucitol (1,5-AG), Intermediate Glycemic Control",
+    "Specimens required": "Serum",
+    "Price": "$35.76"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Immunoglobulin G Subclasses Panel",
+    "Specimens required": "Serum",
+    "Price": "$54.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Phosphate, Random Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$7.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total, 24-Hour Urine with Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$12.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HLA Typing for Celiac Disease",
+    "Specimens required": "Whole blood",
+    "Price": "$444.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Clozapine",
+    "Specimens required": "Serum",
+    "Price": "$27.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Copeptin",
+    "Specimens required": "Serum",
+    "Price": "$104.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dexamethasone",
+    "Specimens required": "Serum",
+    "Price": "$29.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Factor II Activity, Clotting",
+    "Specimens required": "Plasma",
+    "Price": "$18.03"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Factor V Activity, Clotting",
+    "Specimens required": "Plasma",
+    "Price": "$24.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gastrin",
+    "Specimens required": "Serum",
+    "Price": "$19.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Interleukin-1 Beta",
+    "Specimens required": "Serum",
+    "Price": "$29.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis A IgM Antibody",
+    "Specimens required": "Serum",
+    "Price": "$14.93"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Transferrin",
+    "Specimens required": "Serum",
+    "Price": "$16.93"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Peroxidase and Thyroglobulin Antibodies",
+    "Specimens required": "Serum",
+    "Price": "$17.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Selenium",
+    "Specimens required": "Serum",
+    "Price": "$35.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergy Panel 19, Seafood Group",
+    "Specimens required": "Serum",
+    "Price": "$43.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergy-Shellsh Panel",
+    "Specimens required": "Serum",
+    "Price": "$29.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alpha Melanocyte Stimulating Hormone",
+    "Specimens required": "Plasma",
+    "Price": "$298.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glutamic Acid Decarboxylase-65 Antibody",
+    "Specimens required": "Serum",
+    "Price": "$41.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Antiphospholipid Antibody Panel",
+    "Specimens required": "Plasma",
+    "Price": "$307.64"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Apolipoprotein Evaluation",
+    "Specimens required": "Serum",
+    "Price": "$50.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta Melanocyte Stimulating Hormone",
+    "Specimens required": "Plasma",
+    "Price": "$333.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta-2-Glycoprotein I Antibodies (IgG, IgA, IgM)",
+    "Specimens required": "Plasma",
+    "Price": "$97.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Growth Hormone (GH)",
+    "Specimens required": "Serum",
+    "Price": "$22.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IGF Binding Protein-3 (IGFBP-3)",
+    "Specimens required": "Serum",
+    "Price": "$23.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Collagen Cross-Linked N-Telopeptide (NTx), Urine",
+    "Specimens required": "Urine",
+    "Price": "$170.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Complement Component C1q",
+    "Specimens required": "Serum",
+    "Price": "$30.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bile Acids, Fractionated and Total",
+    "Specimens required": "Serum",
+    "Price": "$33.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HLA Typing for Celiac Disease",
+    "Specimens required": "Whole blood",
+    "Price": "$444.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Clozapine",
+    "Specimens required": "Serum",
+    "Price": "$27.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Copeptin",
+    "Specimens required": "Serum",
+    "Price": "$104.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dexamethasone",
+    "Specimens required": "Serum",
+    "Price": "$29.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gastrin",
+    "Specimens required": "Serum",
+    "Price": "$19.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Interleukin-1 Beta",
+    "Specimens required": "Serum",
+    "Price": "$29.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Interleukin-4 (IL-4), Serum",
+    "Specimens required": "Serum",
+    "Price": "$236.11"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prolactin, Total and Monomeric",
+    "Specimens required": "Serum",
+    "Price": "$53.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Neurolament Light Chain (NfL), Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$277.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Complement Component C3c and C4c",
+    "Specimens required": "Serum",
+    "Price": "$29.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Deoxypyridinoline Crosslinks, Urine",
+    "Specimens required": "Urine",
+    "Price": "$208.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis A IgM Antibody",
+    "Specimens required": "Serum",
+    "Price": "$14.93"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Transferrin",
+    "Specimens required": "Serum",
+    "Price": "$16.93"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyroid Peroxidase and Thyroglobulin Antibodies",
+    "Specimens required": "Serum",
+    "Price": "$17.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Selenium",
+    "Specimens required": "Serum",
+    "Price": "$35.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "NT-proBNP",
+    "Specimens required": "Plasma",
+    "Price": "$73.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Myeloperoxidase Antibody (MPO)",
+    "Specimens required": "Serum",
+    "Price": "$19.97"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipid Panel, Standard",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hCG, Total, Qualitative",
+    "Specimens required": "Serum",
+    "Price": "$9.97"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glutamic Acid Decarboxylase-65 Antibody",
+    "Specimens required": "Serum",
+    "Price": "$41.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apolipoprotein Evaluation",
+    "Specimens required": "Serum",
+    "Price": "$50.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apolipoprotein A1",
+    "Specimens required": "Serum",
+    "Price": "$22.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Apolipoprotein Evaluation",
+    "Specimens required": "Serum",
+    "Price": "$50.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Celiac Disease Diagnostic Panel",
+    "Specimens required": "Serum",
+    "Price": "$75.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Apolipoprotein A-1",
+    "Specimens required": "Serum",
+    "Price": "$22.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Growth Hormone (GH)",
+    "Specimens required": "Serum",
+    "Price": "$22.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IGF Binding Protein-3 (IGFBP-3)",
+    "Specimens required": "Serum",
+    "Price": "$23.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Collagen Cross-Linked N-Telopeptide (NTx), Urine",
+    "Specimens required": "Urine",
+    "Price": "$170.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Calcium, Ionized",
+    "Specimens required": "Serum",
+    "Price": "$15.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heterophile, Mono Screen",
+    "Specimens required": "Serum",
+    "Price": "$10.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein, Total and Protein Electrophoresis",
+    "Specimens required": "Serum",
+    "Price": "$19.76"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Androstenedione",
+    "Specimens required": "Serum",
+    "Price": "$38.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heavy Metals Panel, Random Urine",
+    "Specimens required": "Urine",
+    "Price": "$70.51"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alpha-Fetoprotein, Tumor Marker",
+    "Specimens required": "Serum",
+    "Price": "$22.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mycoplasma pneumoniae Antibodies (IgG, IgM)",
+    "Specimens required": "Serum",
+    "Price": "$35.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "ACTH, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$51.24"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "CA 27.29",
+    "Specimens required": "Serum",
+    "Price": "$27.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tissue Transglutaminase (tTG) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$20.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herpesvirus 6 Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$20.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Quantitative Thyroglobulin without Thyroglobulin Antibodies",
+    "Specimens required": "Serum",
+    "Price": "$18.65"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tryptase",
+    "Specimens required": "Serum",
+    "Price": "$23.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heavy Metals Panel, 24-Hour Urine",
+    "Specimens required": "Urine",
+    "Price": "$63.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lactate Dehydrogenase (LD) Isoenzyme Panel",
+    "Specimens required": "Serum",
+    "Price": "$34.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Varicella-Zoster Virus Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$17.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rubella Antibody (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$18.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Saccharomyces cerevisiae Antibodies (ASCA) (IgG, IgA)",
+    "Specimens required": "Serum",
+    "Price": "$87.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Urea Nitrogen, 24-Hour Urine without Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$6.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lipid Panel, Standard",
+    "Specimens required": "Serum",
+    "Price": "$8.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hCG, Total, Qualitative",
+    "Specimens required": "Serum",
+    "Price": "$9.97"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alpha-1-Antitrypsin, Quantitative",
+    "Specimens required": "Serum",
+    "Price": "$17.82"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "DNase-B Antibody",
+    "Specimens required": "Serum",
+    "Price": "$17.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apolipoprotein Evaluation",
+    "Specimens required": "Serum",
+    "Price": "$50.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apolipoprotein A1",
+    "Specimens required": "Serum",
+    "Price": "$22.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Antithrombin III Antigen",
+    "Specimens required": "Plasma",
+    "Price": "$22.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Celiac Disease Diagnostic Panel",
+    "Specimens required": "Serum",
+    "Price": "$75.21"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardio IQ Apolipoprotein A-1",
+    "Specimens required": "Serum",
+    "Price": "$22.19"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Collagen Type I C-Telopeptide (CTx)",
+    "Specimens required": "Serum",
+    "Price": "$25.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardiolipin Antibodies (IgA, IgG, IgM)",
+    "Specimens required": "Plasma",
+    "Price": "$101.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cytomegalovirus Antibodies (IgG, IgM)",
+    "Specimens required": "Serum",
+    "Price": "$41.44"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Calcium, Ionized",
+    "Specimens required": "Serum",
+    "Price": "$15.90"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Heterophile, Mono Screen",
+    "Specimens required": "Serum",
+    "Price": "$10.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "C3a desArg Fragment",
+    "Specimens required": "Plasma",
+    "Price": "$23.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Complement, Total (CH50)",
+    "Specimens required": "Serum",
+    "Price": "$26.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Coxsackie A Antibodies, Serum",
+    "Specimens required": "Serum",
+    "Price": "$103.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Deoxypyridinoline Crosslinks, Urine",
+    "Specimens required": "Urine",
+    "Price": "$208.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estradiol and Estrone",
+    "Specimens required": "Serum",
+    "Price": "$49.65"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Factor V (Leiden) Mutation Analysis",
+    "Specimens required": "Whole blood",
+    "Price": "$84.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fatty Acid Panel, Comprehensive (C8-C26), Serum",
+    "Specimens required": "Serum",
+    "Price": "$453.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fatty Acid Panel, Essential (C12-C22), Serum",
+    "Specimens required": "Serum",
+    "Price": "$304.14"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fatty Acid Panel, Mitochondrial (C8-C18), Serum",
+    "Specimens required": "Serum",
+    "Price": "$154.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Kappa/Lambda Light Chains, Free with Ratio",
+    "Specimens required": "Serum",
+    "Price": "$47.97"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Methylmalonic Acid, Urine with Creatinine",
+    "Specimens required": "Urine",
+    "Price": "$108.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Semen Analysis, Complete",
+    "Specimens required": "Semen",
+    "Price": "$173.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Selenium, RBC",
+    "Specimens required": "Whole blood",
+    "Price": "$35.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herpesvirus 6 Antibody (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$20.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Torch Panel (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$53.53"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rheumatoid Arthritis Diagnostic Panel 1",
+    "Specimens required": "Serum",
+    "Price": "$26.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Creatine Kinase Isoenzymes (CK Isoenzymes) with Total CK",
+    "Specimens required": "Serum",
+    "Price": "$23.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sickle Cell Screen",
+    "Specimens required": "Whole blood",
+    "Price": "$7.65"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aldolase",
+    "Specimens required": "Serum",
+    "Price": "$12.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Myoglobin, Serum",
+    "Specimens required": "Serum",
+    "Price": "$17.13"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "hCG, Qualitative, Urine",
+    "Specimens required": "Urine",
+    "Price": "$11.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel IX",
+    "Specimens required": "Serum",
+    "Price": "$662.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel V",
+    "Specimens required": "Serum",
+    "Price": "$396.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel VI",
+    "Specimens required": "Serum",
+    "Price": "$434.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgG4 Food Panel VII",
+    "Specimens required": "Serum",
+    "Price": "$358.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Protein S Antigen, Total and Free",
+    "Specimens required": "Plasma",
+    "Price": "$47.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardiolipin Antibody (IgA)",
+    "Specimens required": "Plasma",
+    "Price": "$14.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HSV-2 IgG Inhibition, IA",
+    "Specimens required": "Serum",
+    "Price": "$243.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herpes Simplex Virus 2 (IgG), Type-Specic Antibody",
+    "Specimens required": "Serum",
+    "Price": "$8.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cardiolipin Antibody (IgG)",
+    "Specimens required": "Plasma",
+    "Price": "$14.58"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chick Pea (f309) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chlamydophila pneumoniae Antibodies (IgG, IgA, IgM)",
+    "Specimens required": "Serum",
+    "Price": "$71.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herpes Simplex Virus 1 and 2 (IgG), Type-Specic Antibodies",
+    "Specimens required": "Serum",
+    "Price": "$16.49"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estrogens, Fractionated, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$72.40"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Estrogens, Fractionated, LC/MS",
+    "Specimens required": "Serum",
+    "Price": "$72.40"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta-2-Glycoprotein I Antibody (IgM)",
+    "Specimens required": "Plasma",
+    "Price": "$30.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta-2-Glycoprotein I Antibody (IgG)",
+    "Specimens required": "Plasma",
+    "Price": "$33.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beta-2-Glycoprotein I Antibody (IgA)",
+    "Specimens required": "Plasma",
+    "Price": "$33.33"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alkaline Phosphatase Isoenzymes",
+    "Specimens required": "Serum",
+    "Price": "$31.32"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Advanced Lipid Panel, Cardio IQ",
+    "Specimens required": "Serum",
+    "Price": "$87.53"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Osteocalcin, N-MID",
+    "Specimens required": "Serum",
+    "Price": "$58.47"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herpes Simplex Virus 1 (IgG), Type-Specic Antibody",
+    "Specimens required": "Serum",
+    "Price": "$8.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "HSV-2 IgG Inhibition, IA",
+    "Specimens required": "Serum",
+    "Price": "$243.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ehrlichia chaffeensis DNA, Real-Time PCR",
+    "Specimens required": "Whole blood",
+    "Price": "$173.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Trichophyton mentagrophytes (var interdigital) (m211) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anaplasma phagocytophilum DNA, Qualitative Real-Time PCR",
+    "Specimens required": "Whole blood",
+    "Price": "$159.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ceruloplasmin",
+    "Specimens required": "Serum",
+    "Price": "$14.04"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Corn Smut, Tilletia tritici (m201), IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cytomegalovirus Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$19.10"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cytomegalovirus Antibody (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$22.35"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "DHEA Sulfate, Immunoassay",
+    "Specimens required": "Serum",
+    "Price": "$10.42"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Antibody Panel",
+    "Specimens required": "Serum",
+    "Price": "$95.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Early Antigen D Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$43.36"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Nuclear Antigen (EBNA) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$24.40"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Viral Capsid Antigen (VCA) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$23.46"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Viral Capsid Antigen (VCA) Antibody (IgM)",
+    "Specimens required": "Serum",
+    "Price": "$29.68"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ethylene Oxide (k78) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Formaldehyde/Formalin (k80) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis A Antibody, Total",
+    "Specimens required": "Serum",
+    "Price": "$10.99"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis B Core Antibody, Total",
+    "Specimens required": "Serum",
+    "Price": "$10.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis B Surface Antibody Immunity, Quantitative",
+    "Specimens required": "Serum",
+    "Price": "$12.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis B Surface Antibody, Qualitative",
+    "Specimens required": "Serum",
+    "Price": "$6.94"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hepatitis C Viral RNA, Quantitative, Real-Time PCR",
+    "Specimens required": "Plasma",
+    "Price": "$118.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hickory White (t41) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Isocyanate HDI (k77) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Isocyanate MDI (k76) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Isocyanate TDI (k75) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Jo-1 Antibody",
+    "Specimens required": "Serum",
+    "Price": "$25.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Juvenile Polyposis Panel (BMPR1A and SMAD4)",
+    "Specimens required": "Whole blood",
+    "Price": "$3279.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lyme Disease Antibodies (IgG,IgM), Immunoblot",
+    "Specimens required": "Serum",
+    "Price": "$41.08"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lynch Syndrome Panel",
+    "Specimens required": "Whole blood",
+    "Price": "$3462.54"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Measles Antibody (IgG), Immune Status",
+    "Specimens required": "Serum",
+    "Price": "$10.31"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mutated Citrullinated Vimentin (MCV) Antibody",
+    "Specimens required": "Serum",
+    "Price": "$104.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Partial Thromboplastin Time, Activated",
+    "Specimens required": "Plasma",
+    "Price": "$7.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Penicilloyl G and V Prole",
+    "Specimens required": "Serum",
+    "Price": "$14.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Phthalic Anhydride (k79) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Post-Transplant, Hepatitis C Virus RNA, Real-Time PCR, Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$118.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Post-Transplant, Hepatitis C Virus RNA, Real-Time PCR, Serum",
+    "Specimens required": "Serum",
+    "Price": "$118.06"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prothrombin (Factor II) 20210G→A Mutation Analysis",
+    "Specimens required": "Whole blood",
+    "Price": "$178.57"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Prothrombin Time with INR",
+    "Specimens required": "Plasma",
+    "Price": "$6.81"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rubella Antibody (IgG), Immune Status",
+    "Specimens required": "Serum",
+    "Price": "$5.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Scleroderma Antibody (Scl-70)",
+    "Specimens required": "Serum",
+    "Price": "$14.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sweet Potato (f54) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tissue Transglutaminase (tTG) Antibodies (IgG, IgA)",
+    "Specimens required": "Serum",
+    "Price": "$37.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tissue Transglutaminase (tTG) Antibody (IgA)",
+    "Specimens required": "Serum",
+    "Price": "$16.67"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "VLDL Cholesterol",
+    "Specimens required": "Serum",
+    "Price": "$2.78"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Watermelon (rf329) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Yellow Dock Weed (rw23) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Corn Smut, Tilletia tritici (m201), IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ehrlichia chaffeensis DNA, Real-Time PCR",
+    "Specimens required": "Whole blood",
+    "Price": "$173.61"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Antibody Panel",
+    "Specimens required": "Serum",
+    "Price": "$95.60"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Early Antigen D Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$43.36"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epstein-Barr Virus Nuclear Antigen (EBNA) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$24.40"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Amino Acids Urine Test - 24-hr",
+    "Specimens required": "Urine",
+    "Price": "$285.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Amino Acids Urine Test - Random",
+    "Specimens required": "Urine",
+    "Price": "$285.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Comprehensive Stool Analysis",
+    "Specimens required": "Stool",
+    "Price": "$340.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "EnviroTOX Burden",
+    "Specimens required": "Urine",
+    "Price": "$581.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "EnviroTOX Complete",
+    "Specimens required": "Urine",
+    "Price": "$717.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "DNA Methylation Pathway Prole",
+    "Specimens required": "Buccal swab",
+    "Price": "$475.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "EnviroTOX",
+    "Specimens required": "Urine",
+    "Price": "$512.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Amino Acids Plasma Test",
+    "Specimens required": "Plasma",
+    "Price": "$285.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Copper + Zinc Prole",
+    "Specimens required": "Serum",
+    "Price": "$160.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "EnviroTOX Complete + Metals",
+    "Specimens required": "Urine",
+    "Price": "$771.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Food Sensitivities and Gut Imbalance",
+    "Specimens required": "Bloodspot Urine",
+    "Price": "$455.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "GI 360 Microbiome Prole",
+    "Specimens required": "Stool",
+    "Price": "$215.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "GI 360 Prole",
+    "Specimens required": "Stool",
+    "Price": "$450.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Food Sensitivities and Gut Imbalance",
+    "Specimens required": "Serum Urine",
+    "Price": "$455.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "GI 360 Essentials Prole",
+    "Specimens required": "Stool",
+    "Price": "$350.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "H. Pylori Antigen Test",
+    "Specimens required": "Stool",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Hormones Comprehensive Plus Prole",
+    "Specimens required": "Saliva",
+    "Price": "$260.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Hormones Comprehensive Prole",
+    "Specimens required": "Saliva",
+    "Price": "$250.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Glyphosate - Urine",
+    "Specimens required": "Urine",
+    "Price": "$120.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Glyphosate - Water",
+    "Specimens required": "Water",
+    "Price": "$120.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "IgG Food MAP with Candida + Yeast",
+    "Specimens required": "Serum",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Kryptopyrrole Test",
+    "Specimens required": "Urine",
+    "Price": "$210.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Urine - 24 Hour",
+    "Specimens required": "Urine",
+    "Price": "$190.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Urine - Random",
+    "Specimens required": "Urine",
+    "Price": "$190.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Urine - Timed",
+    "Specimens required": "Urine",
+    "Price": "$190.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Whole Blood",
+    "Specimens required": "Whole blood",
+    "Price": "$210.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "IgE Food Allergy Advanced Test",
+    "Specimens required": "Serum",
+    "Price": "$495.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "IgE Food Allergy Basic Test",
+    "Specimens required": "Serum",
+    "Price": "$250.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic Elements - Urine - Random",
+    "Specimens required": "Urine",
+    "Price": "$120.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic Elements - Urine - Timed",
+    "Specimens required": "Urine",
+    "Price": "$120.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic Elements - Stool",
+    "Specimens required": "Stool",
+    "Price": "$140.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic Elements - Urine - 24 Hour",
+    "Specimens required": "Urine",
+    "Price": "$120.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Hair",
+    "Specimens required": "Hair",
+    "Price": "$140.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Metals - Toxic + Nutrient Elements - Red Blood Cell",
+    "Specimens required": "Red blood cells",
+    "Price": "$270.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "IgE Inhalant Allergy Basic Test",
+    "Specimens required": "Serum",
+    "Price": "$250.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Microbial Organic Acids (MOAT)",
+    "Specimens required": "Urine",
+    "Price": "$200.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Microbiology Test",
+    "Specimens required": "Stool",
+    "Price": "$185.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Mold IgE Allergy Test",
+    "Specimens required": "Serum",
+    "Price": "$170.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Myco-Metabolic Panel",
+    "Specimens required": "Urine",
+    "Price": "$500.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "MycoTOX",
+    "Specimens required": "Urine",
+    "Price": "$275.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Omega-3 Index Complete",
+    "Specimens required": "Bloodspot",
+    "Price": "$165.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Organic Acids (OAT)",
+    "Specimens required": "Urine",
+    "Price": "$280.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Porphyrins Prole",
+    "Specimens required": "Urine",
+    "Price": "$260.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "TOXDetect Prole",
+    "Specimens required": "Urine",
+    "Price": "$289.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "Zonulin Family Protein Test",
+    "Specimens required": "Stool",
+    "Price": "$79.00"
+  },
+  {
+    "Lab company": "Mosaic Diagnostics",
+    "Lab name": "IgG Food MAP with Candida + Yeast",
+    "Specimens required": "Bloodspot",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Men's Wellness (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$169.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Women's Wellness (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$169.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Nutrition & Wellness (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$149.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Cognitive Wellness (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$139.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CardioMetabolic Advanced (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$145.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "HDL Map (with apoA-I)",
+    "Specimens required": "Plasma",
+    "Price": "$119.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CardioMetabolic Enhanced (Blood Spot)",
+    "Specimens required": "Bloodspot",
+    "Price": "$139.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "GI Balance",
+    "Specimens required": "Stool",
+    "Price": "$149.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Polygenic Risk Map - Male Complete",
+    "Specimens required": "Saliva",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Polygenic Risk Map - Female Complete",
+    "Specimens required": "Saliva",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Cholesterol Balance",
+    "Specimens required": "Serum",
+    "Price": "$49.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CVD & Diabetes Prevention",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$98.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Fatty Acid Balance",
+    "Specimens required": "Plasma",
+    "Price": "$49.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CardioMetabolic Expanded",
+    "Specimens required": "Plasma Serum +1",
+    "Price": "$182.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Nutrition & Health",
+    "Specimens required": "Plasma Serum +1",
+    "Price": "$190.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Cognitive Health",
+    "Specimens required": "Plasma Serum +1",
+    "Price": "$138.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Women's Health",
+    "Specimens required": "Plasma Serum",
+    "Price": "$224.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CardioMetabolic Comprehensive",
+    "Specimens required": "Plasma Serum +1",
+    "Price": "$375.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CVMap",
+    "Specimens required": "Plasma Serum",
+    "Price": "$199.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "LipoMap Test by NMR",
+    "Specimens required": "Serum",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "Men's Health",
+    "Specimens required": "Plasma Serum",
+    "Price": "$219.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CardioMetabolic Essential",
+    "Specimens required": "Serum Whole blood",
+    "Price": "$65.00"
+  },
+  {
+    "Lab company": "Boston Heart Diagnostics",
+    "Lab name": "CVD & Diabetes Prevention Comprehensive",
+    "Specimens required": "Plasma Serum +1",
+    "Price": "$382.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "GI360",
+    "Specimens required": "Stool",
+    "Price": "$402.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "GI360 Essentials",
+    "Specimens required": "Stool",
+    "Price": "$306.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Hormone Plus Prole",
+    "Specimens required": "Saliva",
+    "Price": "$210.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Hormone Prole",
+    "Specimens required": "Saliva",
+    "Price": "$176.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Short Comprehensive Hormone Prole",
+    "Specimens required": "Saliva",
+    "Price": "$132.00"
+  },
+  {
+    "Lab company": "3X4 Genetics",
+    "Lab name": "3X4 Genetics Test + Blueprint Report",
+    "Specimens required": "Buccal swab",
+    "Price": "$299.00"
+  },
+  {
+    "Lab company": "Gemelli Biotech",
+    "Lab name": "trio-smart SIBO Breath Test - Glucose",
+    "Specimens required": "Breath",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Gemelli Biotech",
+    "Lab name": "ibs-smart",
+    "Specimens required": "Capillary whole blood",
+    "Price": "$249.00"
+  },
+  {
+    "Lab company": "Gemelli Biotech",
+    "Lab name": "trio-smart Malabsorption Breath Test - Lactose",
+    "Specimens required": "Breath",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Gemelli Biotech",
+    "Lab name": "trio-smart Malabsorption Breath Test - Sucrose",
+    "Specimens required": "Breath",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Gemelli Biotech",
+    "Lab name": "trio-smart Malabsorption Breath Test - Fructose",
+    "Specimens required": "Breath",
+    "Price": "$349.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Hormone and Urinary Metabolites Assessment Prole (HuMap)",
+    "Specimens required": "Urine",
+    "Price": "$199.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fig (Ficus carica) (f328) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Finch Feathers (re214) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fire Ant (i70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Firebush (w17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Flaxseed (f333) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fusarium moniliforme (m9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Garlic (f47) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gelatin, Bovine(c74) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gerbil (e209) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Giant Ragweed (Tall) (w3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ginger (f270) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gliadin (Deamidated) Antibody (IgA)",
+    "Specimens required": "Serum",
+    "Price": "$15.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gliadin (Deamidated) Antibody (IgG, IgA)",
+    "Specimens required": "Serum",
+    "Price": "$30.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gliadin (Deamidated) Antibody (IgG)",
+    "Specimens required": "Serum",
+    "Price": "$15.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gluten (f79) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Glycyphagus domesticus (d73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goat Epithelia (e80) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goat Milk (f300) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goldenrod (w12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goose Feathers (e70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Grape (f259) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Grapefruit (f209) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Green Bean (f315) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Green Pepper (Unripe) (f263) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Guar Bean Gum (f246) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Guinea Pig Epithelia (e6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gulf Flounder (F147) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gum Arabic (f297) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hackberry (rt44) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Halibut (f303) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hamster Epithelia (e84) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hazel Nut Tree (t4) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hazelnut (f17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Helminthosporium halodes (m8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herring (f205) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hickory White (t41) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hickory/Pecan Tree (t22) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Honey Bee (i1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Horse Dander (e3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "House Dust (Greer) (h1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "House Dust (Hollister-Stier) (h2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgE",
+    "Specimens required": "Serum",
+    "Price": "$14.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin, Human (c73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ispaghula (Psyllium) (k72) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Italian Cypress (t23) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Jack Mackerel/Scad (f60) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Japanese Cedar (t17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Johnson Grass (g10) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "June Grass (Kentucky Blue) (g8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Kiwi Fruit (f84) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lactate Dehydrogenase (LD)",
+    "Specimens required": "Serum",
+    "Price": "$7.89"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lamb (f88) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Common Reed (g7) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Coriander/Cilantro (f317) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Corn,Grass(g202) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cotton Seed (k83) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cotton, Crude Fibers (o1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cottonwood (t14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cow Dander (e4) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cow's Milk (f2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Crab (f23) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cranberry (rf341) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Craysh (rf320) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cucumber (f244) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cultivated Oat (g14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cultivated Rye Grass (g12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cultivated Wheat (g15) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Curvularia lunata (m16) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dandelion (w8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Date (f289) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dermatophagoides farinae (d2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dermatophagoides pteronyssinus (d1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dill (f277) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Dander (e5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Fennel (w46) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Serum Albumin (Re221) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Duck Feathers (e86) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg Mix (Yolk and White) (f245) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg White (f1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg Yolk (f75) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Eggplant (f262) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Elm (t8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "English Plantain (w9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epicoccum purpurascens (m14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Eucalyptus (t18) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "False Ragweed (w4) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ferret Epithelium (e217) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Iodine (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$69.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Fluoride (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$69.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Amino Acids (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$239.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Fundamentals - 1 day",
+    "Specimens required": "Stool",
+    "Price": "$339.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "SIBO - 3 Hour",
+    "Specimens required": "Breath",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "SIBO - 2 Hour",
+    "Specimens required": "Breath",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Microbiomix",
+    "Specimens required": "Stool",
+    "Price": "$415.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Metabolomix+",
+    "Specimens required": "Urine Bloodspot +1",
+    "Price": "$329.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Organix",
+    "Specimens required": "Urine",
+    "Price": "$259.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Adrenocortex Stress Prole",
+    "Specimens required": "Saliva",
+    "Price": "$135.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "One Day Hormone Check",
+    "Specimens required": "Saliva",
+    "Price": "$309.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Comprehensive Prole - 3 day",
+    "Specimens required": "Stool",
+    "Price": "$439.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Comprehensive Prole with Microbiomix",
+    "Specimens required": "Stool",
+    "Price": "$788.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alder (t2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Alfalfa",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bald Cypress (T. distichum)",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Milk (Boiled)",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bay Leaf",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bayberry (M. cerifera)",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergy Insect Venom Panel",
+    "Specimens required": "Serum",
+    "Price": "$36.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Almond (f20) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alternaria alternata (m6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "American Cockroach (i206) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Amoxicillin (c6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anchovy (f313) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anise (f271) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apple (f49) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apricot (f237) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Arizona Cypress (Cupressus arizonica) (t222) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ascaris (p1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Asparagus (f261) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aspergillus fumigatus (m3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aspergillus niger (m207) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aureobasidium pullulans (m12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Australian Pine (t73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Avocado (f96) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "B-Type Natriuretic Peptide (BNP)",
+    "Specimens required": "Plasma",
+    "Price": "$63.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Curvularia lunata (m16) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dandelion (w8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Date (f289) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dermatophagoides farinae (d2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dermatophagoides pteronyssinus (d1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dill (f277) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Dander (e5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Fennel (w46) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Dog Serum Albumin (Re221) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Duck Feathers (e86) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg Mix (Yolk and White) (f245) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg White (f1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Egg Yolk (f75) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Eggplant (f262) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Elm (t8) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "English Plantain (w9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Epicoccum purpurascens (m14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Eucalyptus (t18) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "False Ragweed (w4) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ferret Epithelium (e217) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Iodine (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$69.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Fluoride (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$69.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Urine Amino Acids (24 hr or Random/FMV)",
+    "Specimens required": "Urine",
+    "Price": "$239.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Fundamentals - 1 day",
+    "Specimens required": "Stool",
+    "Price": "$339.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "SIBO - 3 Hour",
+    "Specimens required": "Breath",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "SIBO - 2 Hour",
+    "Specimens required": "Breath",
+    "Price": "$225.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Microbiomix",
+    "Specimens required": "Stool",
+    "Price": "$415.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Metabolomix+",
+    "Specimens required": "Urine Bloodspot +1",
+    "Price": "$329.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Organix",
+    "Specimens required": "Urine",
+    "Price": "$259.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Adrenocortex Stress Prole",
+    "Specimens required": "Saliva",
+    "Price": "$135.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "One Day Hormone Check",
+    "Specimens required": "Saliva",
+    "Price": "$309.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Comprehensive Prole - 3 day",
+    "Specimens required": "Stool",
+    "Price": "$439.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Comprehensive Prole with Microbiomix",
+    "Specimens required": "Stool",
+    "Price": "$788.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alder (t2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Alfalfa",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bald Cypress (T. distichum)",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Milk (Boiled)",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bay Leaf",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergen Specic IgE Bayberry (M. cerifera)",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergy Insect Venom Panel",
+    "Specimens required": "Serum",
+    "Price": "$36.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Almond (f20) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Alternaria alternata (m6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "American Cockroach (i206) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Amoxicillin (c6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anchovy (f313) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Anise (f271) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apple (f49) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Apricot (f237) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Arizona Cypress (Cupressus arizonica) (t222) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ascaris (p1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Asparagus (f261) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aspergillus fumigatus (m3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aspergillus niger (m207) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Aureobasidium pullulans (m12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Australian Pine (t73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Avocado (f96) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "B-Type Natriuretic Peptide (BNP)",
+    "Specimens required": "Plasma",
+    "Price": "$63.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bahia Grass (g17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Banana (f92) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Barley (f6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Barley Pollen (g201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Basil (f269) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beech (t5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beef (f27) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beetroot (Beta vulgaris) (f319) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bermuda Grass (g2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Birch (t3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Black Olive (rf342) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Black Pepper (f280) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Blackberry (f211) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Blomia tropicalis (d201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Blue Mussel (f37) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Blueberry (f288) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Botrytis cinerea (m7) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Brazil Nut (f18) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Broccoli (f260) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Brome Grass (g11) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Brussel Sprouts (f217) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Buckwheat (f11) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bumble Bee Venom (Bombus terrestris) (i205) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cabbage (f216) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Canary Bird Feathers (e201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Canary Grass (g71) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Candida albicans (m5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Candida albicans Antibodies(IgG, IgA, IgM)",
+    "Specimens required": "Serum",
+    "Price": "$51.32"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Caraway (Carum carvi) (f265) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "GI Effects® Comprehensive Prole - 1 day",
+    "Specimens required": "Stool",
+    "Price": "$439.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Abalone (f346) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Acacia (t19) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Acarus siro (d70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Acremonium kiliense (C. acremonium) (m202) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "GI360 Microbiome",
+    "Specimens required": "Stool",
+    "Price": "$179.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "GI Pathogens Prole, multiplex PCR",
+    "Specimens required": "Stool",
+    "Price": "$139.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Stool Analysis (CSA)",
+    "Specimens required": "Stool",
+    "Price": "$249.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Stool Analysis + Parasitology (CSAP)",
+    "Specimens required": "Stool",
+    "Price": "$317.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Clostridium Culture",
+    "Specimens required": "Stool",
+    "Price": "$186.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Parasitology",
+    "Specimens required": "Stool",
+    "Price": "$109.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Microbiology Prole",
+    "Specimens required": "Stool",
+    "Price": "$107.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Bacteriology Culture & Sensitivities",
+    "Specimens required": "Stool",
+    "Price": "$79.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mint (Mentha piperita) (f332) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mosquito (i71) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mountain Cedar (t6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mouse (e88) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Beta-glucuronidase",
+    "Specimens required": "Stool",
+    "Price": "$89.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Calprotectin",
+    "Specimens required": "Stool",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Elastase",
+    "Specimens required": "Stool",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "H pylori Antigen",
+    "Specimens required": "Stool",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Lactoferrin",
+    "Specimens required": "Stool",
+    "Price": "$99.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Lysozyme",
+    "Specimens required": "Stool",
+    "Price": "$89.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Oat (f7) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Octopus (f59) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Olive Tree (t9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Onion (f48) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Orange (f33) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Orchard Grass (Cocksfoot) (g3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Oregano (f283) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Oxeye Daisy (w7) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Women's Health & Breast Prole",
+    "Specimens required": "Saliva",
+    "Price": "$210.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Basic Hormone Prole",
+    "Specimens required": "Saliva",
+    "Price": "$110.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pecan Nut (f201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Penicillium glabrum (p. frequentans) (m209) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Penicillium notatum (m1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Penicilloyl G (c1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Penicilloyl V (c2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Peppertree (rt217) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Perennial Rye Grass (g5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Persimmon (Kaki Fruit) (f301) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Phoma betae (m13) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Phosphate (as Phosphorus)",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pigeon Feathers (e215) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pine (t213) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Sex Hormones Prole (estrogens, androgens, progesterones)",
+    "Specimens required": "Urine",
+    "Price": "$169.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Potato (f35) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Privet (t210) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pumpkin (f225) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Pumpkin Seed (f226) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Queen Palm (t72) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Quinoa (f347) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rabbit (f213) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rabbit Epithelia (e82) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "NeuroHormone Complete Plus Prole (FMV/Random)",
+    "Specimens required": "Saliva Urine",
+    "Price": "$334.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "NeuroHormone Complete Prole (FMV/Random)",
+    "Specimens required": "Saliva Urine",
+    "Price": "$300.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "NeuroAdrenal Prole (FMV/Random)",
+    "Specimens required": "Saliva Urine",
+    "Price": "$234.00"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rice (f9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "RNP Antibody",
+    "Specimens required": "Serum",
+    "Price": "$31.88"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rough Marsh Elder (w16) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rough Pigweed (w14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Russian Thistle (w11) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Rye (f5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Salmon (f41) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sardine/Pilchard (f61) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Scale (w15) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Scallop (f338) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "sdLDL",
+    "Specimens required": "Serum",
+    "Price": "$29.79"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sesame Seed (f10) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sheep Epithelia (e81) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sheep Milk (f325) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sheep Sorrel (w18) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Shrimp (f24) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Snail (f314) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sole (rf337) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Southern Plains Allergy Panel (AR, OK, TX)",
+    "Specimens required": "Serum",
+    "Price": "$112.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Southern Regional Allergy Panel (AL, FL, GA, LA, MS, SC)",
+    "Specimens required": "Serum",
+    "Price": "$72.50"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Soybean (f14) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Spinach (f214) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Spruce (t201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Squid (f258) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Stachybotrys chartarum/atra (RGm24) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Stemphylium botryosum (m10) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Storage Mite (d71) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Strawberry (f44) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sunower (w204) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sunower Seed (k84) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sweet Gum (t211) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sweet Vernal Grass (g1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Swine Epithelia (e83) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Swordsh (f312) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Sycamore (t11) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tarragon (f272) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tea (f222) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Thyme (f273) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Timothy Grass (g6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tomato (f25) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Trichoderma viride (m15) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Trichophyton rubrum (m205) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Trout (f204) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tuna (f40) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Turkey Feathers (e89) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Turkey Meat (f284) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Tyrophagus putrescentiae (d72) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Vanilla (f234) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Velvet Grass (g13) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Virginia Live Oak (rt218) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Western Ragweed (w2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Whey (f236) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Ash (t15) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Bean (f15) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Mulberry (t70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White Pine (t16) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "White-Faced Hornet (i2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wild Rye Grass (g70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Willow (t12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wormwood (w5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Yeast (f45) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Yellow Dock Weed (rw23) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Yellow Hornet (i5) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Yellow Jacket (i3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allergy Panel, Region 4, Trees",
+    "Specimens required": "Serum",
+    "Price": "$36.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Allspice IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fig (Ficus carica) (f328) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Finch Feathers (re214) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fire Ant (i70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Firebush (w17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Flaxseed (f333) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fusarium moniliforme (m9) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Garlic (f47) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gelatin, Bovine(c74) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gerbil (e209) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Giant Ragweed (Tall) (w3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ginger (f270) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gliadin (Deamidated) Antibody (IgA)",
+    "Specimens required": "Serum",
+    "Price": "$15.28"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Gliadin (Deamidated) Antibody (IgG, IgA)",
+    "Specimens required": "Serum",
+    "Price": "$30.56"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goat Milk (f300) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Goldenrod (w12) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Carob (f296) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Carrot (f31) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Halibut (f303) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hamster Epithelia (e84) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cat Serum Albumin (Re220) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cat Dander (e1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Catsh (f369) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cauliower (f291) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Herring (f205) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hickory White (t41) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Hickory/Pecan Tree (t22) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Honey Bee (i1) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Centromere B Antibody",
+    "Specimens required": "Serum",
+    "Price": "$29.17"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chaetomium globosum (m208) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cheddar Cheese (f81) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "IgE",
+    "Specimens required": "Serum",
+    "Price": "$14.83"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Insulin, Human (c73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Ispaghula (Psyllium) (k72) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Italian Cypress (t23) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Jack Mackerel/Scad (f60) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Japanese Cedar (t17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chicken Meat (f83) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chili Pepper (f279) IgE",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Chub Mackerel (f50) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cinnamon (f220) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cladosporium herbarum (m2) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Clam (f207) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Clove (f268) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lobster (f80) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Lobster, Spiny (f304) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cocklebur (w13) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cockroach (i6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Cocoa (f93) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Coconut (f36) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Codsh (f3) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Coffee (f221) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Common Millet (f55) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Meadow Foxtail (g16) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Melaleuca (t21) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Melons (f87) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Mesquite Tree (t20) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Methylmalonic Acid",
+    "Specimens required": "Serum",
+    "Price": "$34.72"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Bahia Grass (g17) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Banana (f92) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Barley (f6) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Barley Pollen (g201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Acacia (t19) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Acarus siro (d70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Beef (f27) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Albumin",
+    "Specimens required": "Serum",
+    "Price": "$6.29"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wall Pellitory (w19) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wall Pellitory (w21) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Walnut (f256) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Walnut Tree (t10) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Watermelon (rf329) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wheat (f4) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "GROUPER (F410) IGE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Fresh Fennel (F276) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Green Coffee Bean (k70) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Honey (F247) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Wild Silk (K73) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Jack Fruit (F318) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Megrim (F311) IgE",
+    "Specimens required": "Serum",
+    "Price": "$11.22"
+  },
+  {
+    "Lab company": "Quest Diagnostics",
+    "Lab name": "Papain (K201) IgE",
+    "Specimens required": "Serum",
+    "Price": "$7.25"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Red Blood Cell (RBC) Elements",
+    "Specimens required": "Red blood cells",
+    "Price": "$160.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Comprehensive Blood Elements",
+    "Specimens required": "Whole blood Serum",
+    "Price": "$186.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Serum Elements",
+    "Specimens required": "Serum",
+    "Price": "$95.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "CardioMetabolic Prole",
+    "Specimens required": "Serum",
+    "Price": "$211.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Oxidized LDL",
+    "Specimens required": "Serum",
+    "Price": "$75.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Metabolomic Prole",
+    "Specimens required": "Serum",
+    "Price": "$109.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Cardiovascular Risk Prole",
+    "Specimens required": "Serum",
+    "Price": "$159.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Fatty Acids",
+    "Specimens required": "Erythrocytes",
+    "Price": "$135.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Plasma Amino Acids",
+    "Specimens required": "Plasma",
+    "Price": "$239.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Celiac & Gluten Sensitivity (serum)",
+    "Specimens required": "Serum",
+    "Price": "$109.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Creatinine Clearance",
+    "Specimens required": "Urine Serum",
+    "Price": "$69.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Whole Blood Elements",
+    "Specimens required": "Whole blood",
+    "Price": "$160.00"
+  },
+  {
+    "Lab company": "Doctor's Data",
+    "Lab name": "Methylation Prole",
+    "Specimens required": "Plasma",
+    "Price": "$165.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "Methylation Panel",
+    "Specimens required": "Blood Buccal swab",
+    "Price": "$239.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "NutrEval® Plasma",
+    "Specimens required": "Plasma",
+    "Price": "$439.00"
+  },
+  {
+    "Lab company": "Genova Diagnostics",
+    "Lab name": "NutrEval® FMV",
+    "Specimens required": "Urine Blood +1",
+    "Price": "$439.00"
+  }
+]
