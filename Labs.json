@@ -4701,7 +4701,7 @@
     "Lab Company": "Quest Diagnostics",
     "Specimens Required": "Serum",
     "Price": "$6.10",
-    "Favorite": treu
+    "Favorite": true
   },
   {
     "Lab Name": "Basic Metabolic Panel without Calcium",
