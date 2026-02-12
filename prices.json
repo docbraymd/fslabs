@@ -404,6 +404,15 @@
       "count": "90 gummies",
       "source": "Amazon",
       "price": 27.97
+    },
+    {
+      "id": 49,
+      "brand": "Jarrow Formulas",
+      "name": "Theanine 200mg",
+      "count": "60 capsules",
+      "source": "Fullscript",
+      "msrp": 34.99,
+      "price": 22.74
     }
   ]
 }
