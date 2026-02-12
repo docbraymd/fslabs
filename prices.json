@@ -406,6 +406,24 @@
       "price": 27.97
     },
     {
+      "id": 50,
+      "brand": "SmartyPants Vitamins",
+      "name": "Prenatal Plus Multi & Omegas",
+      "count": "120 gummies",
+      "source": "Fullscript",
+      "msrp": 56.99,
+      "price": 37.04
+    },
+    {
+      "id": 51,
+      "brand": "SmartyPants Vitamins",
+      "name": "Organic Prenatal Plus Multi & Omegas",
+      "count": "90 gummies",
+      "source": "Fullscript",
+      "msrp": 41.99,
+      "price": 27.29
+    },
+    {
       "id": 49,
       "brand": "Jarrow Formulas",
       "name": "Theanine 200mg",
