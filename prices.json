@@ -1,0 +1,361 @@
+{
+  "products": [
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Zinc Balance",
+      "count": "100 capsules",
+      "source": "Fullscript",
+      "msrp": 16.99,
+      "price": 11.04
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Zinc Balance",
+      "count": "100 capsules",
+      "source": "Amazon",
+      "price": 11.24
+    },
+    {
+      "brand": "Enzymedica",
+      "name": "Digest Gold",
+      "count": "120 capsules",
+      "source": "Fullscript",
+      "msrp": 69.99,
+      "price": 45.49
+    },
+    {
+      "brand": "Enzymedica",
+      "name": "Digest Gold",
+      "count": "180 capsules",
+      "source": "Amazon",
+      "price": 72.74
+    },
+    {
+      "brand": "Enzymedica",
+      "name": "Digest Gold",
+      "count": "240 capsules",
+      "source": "Amazon",
+      "price": 86.99
+    },
+    {
+      "brand": "Nordic Naturals",
+      "name": "ProOmega 2000",
+      "count": "120 Softgels",
+      "source": "Fullscript",
+      "msrp": 100.99,
+      "price": 65.64
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Quercetin 500mg",
+      "count": "30 capsules",
+      "source": "Fullscript",
+      "msrp": 20.99,
+      "price": 13.64
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Quercetin 500mg",
+      "count": "200 capsules",
+      "source": "Amazon",
+      "price": 49.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Methyl B-12 & Methyl Folate Cherry",
+      "count": "60 Chewables",
+      "source": "Fullscript",
+      "msrp": 47.99,
+      "price": 31.19
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Methyl B-12 & Methyl Folate Lemon",
+      "count": "100 tablets",
+      "source": "Fullscript",
+      "msrp": 23.99,
+      "price": 15.59
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Methyl B-12 & Methyl Folate",
+      "count": "100 tablets",
+      "source": "Amazon",
+      "price": 13.99
+    },
+    {
+      "brand": "Thorne",
+      "name": "Betaine HCL & Pepsin",
+      "count": "225 capsules",
+      "source": "Fullscript",
+      "msrp": 47.99,
+      "price": 31.19
+    },
+    {
+      "brand": "Natural Factors",
+      "name": "Betaine HCL 500mg",
+      "count": "180 capsules",
+      "source": "Amazon",
+      "price": 16.77
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "CDP Choline 250mg",
+      "count": "120 capsules",
+      "source": "Fullscript",
+      "msrp": 69.99,
+      "price": 45.49
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "CDP Choline 250mg",
+      "count": "120 capsules",
+      "source": "Amazon",
+      "price": 42.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "BroccoMax",
+      "count": "60 capsules",
+      "source": "Fullscript",
+      "msrp": 30.99,
+      "price": 20.14
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "BroccoMax",
+      "count": "60 capsules",
+      "source": "Amazon",
+      "price": 23.85
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "BroccoMax",
+      "count": "120 capsules",
+      "source": "Amazon",
+      "price": 34.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "K-Right",
+      "count": "60 Softgels",
+      "source": "Fullscript",
+      "msrp": 54.99,
+      "price": 35.74
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "K-Right",
+      "count": "60 Softgels",
+      "source": "Amazon",
+      "price": 33.50
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "B-Right",
+      "count": "100 capsules",
+      "source": "Fullscript",
+      "msrp": 33.99,
+      "price": 22.09
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Vitamin D3 5000iu",
+      "count": "100 Softgels",
+      "source": "Fullscript",
+      "msrp": 17.99,
+      "price": 11.69
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Vitamin D3 5000iu",
+      "count": "100 Softgels",
+      "source": "Amazon",
+      "price": 10.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "MK-7 180mcg",
+      "count": "30 Softgels",
+      "source": "Fullscript",
+      "msrp": 26.99,
+      "price": 17.54
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "MK-7 180mcg",
+      "count": "30 Softgels",
+      "source": "Amazon",
+      "price": 15.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "MK-7 90mcg",
+      "count": "60 Softgels",
+      "source": "Amazon",
+      "price": 16.99
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "N-A-C Sustain 600mg",
+      "count": "60 tablets",
+      "source": "Fullscript",
+      "msrp": 26.99,
+      "price": 17.54
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "N-A-C Sustain 600mg",
+      "count": "60 tablets",
+      "source": "Amazon",
+      "price": 15.99
+    },
+    {
+      "brand": "Gaia Herbs Pro",
+      "name": "Nootropic Focus",
+      "count": "40 capsules",
+      "source": "Fullscript",
+      "msrp": 45.99,
+      "price": 29.89
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Vitamin D3 2500iu",
+      "count": "100 Softgels",
+      "source": "Fullscript",
+      "msrp": 16.99,
+      "price": 11.04
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Taurine 1000mg",
+      "count": "100 capsules",
+      "source": "Fullscript",
+      "msrp": 16.99,
+      "price": 11.04
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Taurine 1000mg",
+      "count": "100 capsules",
+      "source": "Amazon",
+      "price": 9.99
+    },
+    {
+      "brand": "Garden of Life",
+      "name": "Mykind Organics Mens Once Daily",
+      "count": "60 tablets",
+      "source": "Fullscript",
+      "msrp": 56.99,
+      "price": 37.04
+    },
+    {
+      "brand": "Garden of Life",
+      "name": "Mykind Organics Mens Once Daily",
+      "count": "60 tablets",
+      "source": "Amazon",
+      "price": 34.84
+    },
+    {
+      "brand": "Garden of Life",
+      "name": "Mykind Organics Mens Multi",
+      "count": "120 tablets",
+      "source": "Amazon",
+      "price": 45.59
+    },
+    {
+      "brand": "Pure Encapsulations",
+      "name": "Ginkgo 50 160mg",
+      "count": "120 capsules",
+      "source": "Fullscript",
+      "msrp": 79.99,
+      "price": 51.99
+    },
+    {
+      "brand": "Gaia Herbs",
+      "name": "Ginkgo Leaf",
+      "count": "60 capsules",
+      "source": "Amazon",
+      "price": 32.84
+    },
+    {
+      "brand": "Solaray",
+      "name": "Vitamin C Bioflavonoids 1:1",
+      "count": "100 capsules",
+      "source": "Fullscript",
+      "msrp": 11.99,
+      "price": 7.79
+    },
+    {
+      "brand": "Solaray",
+      "name": "Super Bio Vitamin C 1000mg",
+      "count": "360 VegCaps",
+      "source": "Amazon",
+      "price": 27.19
+    },
+    {
+      "brand": "Solaray",
+      "name": "Super Bio Vitamin C 1000mg",
+      "count": "250 VegCaps",
+      "source": "Amazon",
+      "price": 28.94
+    },
+    {
+      "brand": "Garden of Life",
+      "name": "Mykind Organics Mens Multi",
+      "count": "60 tablets",
+      "source": "Fullscript",
+      "msrp": 56.99,
+      "price": 37.04
+    },
+    {
+      "brand": "Jarrow Formulas",
+      "name": "Theanine 200mg",
+      "count": "60 capsules",
+      "source": "Amazon",
+      "price": 20.99
+    },
+    {
+      "brand": "BIOptimizers",
+      "name": "Magnesium Breakthrough",
+      "count": "90 capsules",
+      "source": "Amazon",
+      "price": 44.00
+    },
+    {
+      "brand": "BIOptimizers",
+      "name": "Magnesium Breakthrough",
+      "count": "60 capsules",
+      "source": "Amazon",
+      "price": 31.16
+    },
+    {
+      "brand": "Ferosom Forte",
+      "name": "LCE Liposomal Iron Powder",
+      "count": "30 sachets",
+      "source": "Amazon",
+      "price": 44.99
+    },
+    {
+      "brand": "Life Extension",
+      "name": "Two-Per-Day Multivitamin",
+      "count": "120 capsules",
+      "source": "Amazon",
+      "price": 17.21
+    },
+    {
+      "brand": "Pique",
+      "name": "Sun Goddess Matcha",
+      "count": "28 sticks",
+      "source": "Amazon",
+      "price": 78.00
+    },
+    {
+      "brand": "SmartyPants",
+      "name": "Prenatal Multivitamin Gummies",
+      "count": "90 gummies",
+      "source": "Amazon",
+      "price": 27.97
+    }
+  ]
+}
