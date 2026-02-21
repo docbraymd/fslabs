@@ -21,10 +21,10 @@
       "id": 3,
       "brand": "Enzymedica",
       "name": "Digest Gold",
-      "count": "120 capsules",
+      "count": "21 capsules",
       "source": "Fullscript",
-      "msrp": 69.99,
-      "price": 45.49
+      "msrp": 18.99,
+      "price": 12.34
     },
     {
       "id": 4,
@@ -132,10 +132,10 @@
       "id": 16,
       "brand": "Jarrow Formulas",
       "name": "BroccoMax",
-      "count": "60 capsules",
+      "count": "120 capsules",
       "source": "Fullscript",
-      "msrp": 30.99,
-      "price": 20.14
+      "msrp": 55.99,
+      "price": 36.39
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
       "name": "K-Right",
       "count": "60 Softgels",
       "source": "Amazon",
-      "price": 33.50
+      "price": 33.00
     },
     {
       "id": 21,
@@ -277,10 +277,10 @@
       "id": 33,
       "brand": "Garden of Life",
       "name": "Mykind Organics Mens Once Daily",
-      "count": "60 tablets",
+      "count": "30 tablets",
       "source": "Fullscript",
-      "msrp": 56.99,
-      "price": 37.04
+      "msrp": 33.99,
+      "price": 22.09
     },
     {
       "id": 34,
@@ -288,7 +288,7 @@
       "name": "Mykind Organics Mens Once Daily",
       "count": "60 tablets",
       "source": "Amazon",
-      "price": 34.84
+      "price": 33.84
     },
     {
       "id": 35,
@@ -338,7 +338,7 @@
       "name": "Super Bio Vitamin C 1000mg",
       "count": "250 VegCaps",
       "source": "Amazon",
-      "price": 28.94
+      "price": 29.05
     },
     {
       "id": 41,
@@ -363,7 +363,7 @@
       "name": "Magnesium Breakthrough",
       "count": "90 capsules",
       "source": "Amazon",
-      "price": 44.00
+      "price": 49.50
     },
     {
       "id": 44,
@@ -371,7 +371,7 @@
       "name": "Magnesium Breakthrough",
       "count": "60 capsules",
       "source": "Amazon",
-      "price": 31.16
+      "price": 39.95
     },
     {
       "id": 45,
@@ -409,10 +409,10 @@
       "id": 50,
       "brand": "SmartyPants Vitamins",
       "name": "Prenatal Plus Multi & Omegas",
-      "count": "120 gummies",
+      "count": "90 gummies",
       "source": "Fullscript",
-      "msrp": 56.99,
-      "price": 37.04
+      "msrp": 49.99,
+      "price": 32.49
     },
     {
       "id": 51,
@@ -431,6 +431,39 @@
       "source": "Fullscript",
       "msrp": 34.99,
       "price": 22.74
+    },
+    {
+      "id": 52,
+      "brand": "Nordic Naturals",
+      "name": "ProOmega 2000",
+      "count": "120 Softgels",
+      "source": "Amazon",
+      "price": 83.26
+    },
+    {
+      "id": 53,
+      "brand": "Jarrow Formulas",
+      "name": "Vitamin D3 2500iu",
+      "count": "100 Softgels",
+      "source": "Amazon",
+      "price": 9.99
+    },
+    {
+      "id": 54,
+      "brand": "Natrol",
+      "name": "Melatonin + 5-HTP",
+      "count": "60 tablets",
+      "source": "Amazon",
+      "price": 12.99
+    },
+    {
+      "id": 55,
+      "brand": "Life Extension",
+      "name": "Two-Per-Day Capsules",
+      "count": "120 capsules",
+      "source": "Fullscript",
+      "msrp": 25.99,
+      "price": 16.89
     }
   ]
 }
