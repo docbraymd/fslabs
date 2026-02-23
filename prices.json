@@ -138,14 +138,6 @@
       "price": 36.39
     },
     {
-      "id": 17,
-      "brand": "Jarrow Formulas",
-      "name": "BroccoMax",
-      "count": "60 capsules",
-      "source": "Amazon",
-      "price": 23.85
-    },
-    {
       "id": 18,
       "brand": "Jarrow Formulas",
       "name": "BroccoMax",
@@ -214,14 +206,6 @@
       "price": 15.99
     },
     {
-      "id": 26,
-      "brand": "Jarrow Formulas",
-      "name": "MK-7 90mcg",
-      "count": "60 Softgels",
-      "source": "Amazon",
-      "price": 16.99
-    },
-    {
       "id": 27,
       "brand": "Jarrow Formulas",
       "name": "N-A-C Sustain 600mg",
@@ -277,10 +261,10 @@
       "id": 33,
       "brand": "Garden of Life",
       "name": "Mykind Organics Mens Once Daily",
-      "count": "30 tablets",
+      "count": "60 tablets",
       "source": "Fullscript",
-      "msrp": 33.99,
-      "price": 22.09
+      "msrp": 56.99,
+      "price": 37.04
     },
     {
       "id": 34,
@@ -296,7 +280,7 @@
       "name": "Mykind Organics Mens Multi",
       "count": "120 tablets",
       "source": "Amazon",
-      "price": 45.59
+      "price": 50.66
     },
     {
       "id": 36,
@@ -338,7 +322,7 @@
       "name": "Super Bio Vitamin C 1000mg",
       "count": "250 VegCaps",
       "source": "Amazon",
-      "price": 29.05
+      "price": 29.06
     },
     {
       "id": 41,
@@ -363,7 +347,7 @@
       "name": "Magnesium Breakthrough",
       "count": "90 capsules",
       "source": "Amazon",
-      "price": 49.50
+      "price": 55.00
     },
     {
       "id": 44,
@@ -406,6 +390,15 @@
       "price": 27.97
     },
     {
+      "id": 49,
+      "brand": "Jarrow Formulas",
+      "name": "Theanine 200mg",
+      "count": "60 capsules",
+      "source": "Fullscript",
+      "msrp": 34.99,
+      "price": 22.74
+    },
+    {
       "id": 50,
       "brand": "SmartyPants Vitamins",
       "name": "Prenatal Plus Multi & Omegas",
@@ -422,15 +415,6 @@
       "source": "Fullscript",
       "msrp": 41.99,
       "price": 27.29
-    },
-    {
-      "id": 49,
-      "brand": "Jarrow Formulas",
-      "name": "Theanine 200mg",
-      "count": "60 capsules",
-      "source": "Fullscript",
-      "msrp": 34.99,
-      "price": 22.74
     },
     {
       "id": 52,
@@ -464,6 +448,22 @@
       "source": "Fullscript",
       "msrp": 25.99,
       "price": 16.89
+    },
+    {
+      "id": 56,
+      "brand": "Pure Encapsulations",
+      "name": "Ginkgo 50 160mg",
+      "count": "120 capsules",
+      "source": "Amazon",
+      "price": 79.50
+    },
+    {
+      "id": 57,
+      "brand": "Jarrow Formulas",
+      "name": "Methyl B-12 & Methyl Folate Cherry",
+      "count": "60 Chewables",
+      "source": "Amazon",
+      "price": 32.94
     }
   ]
 }
